@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+   }
+   
+   #hp{
+         text-align: center;
+         font-size: 100px;
+         border: 2px solid white;
+         margin-top: 6cm;
+         color: rgb(121, 60, 60);
+         background-color: rgb(139, 139, 134);
+   }
